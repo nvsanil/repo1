@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 669E-A9B5
+
+ Directory of C:\work\MyGitProjects
+
+10/21/2017  01:28 PM    <DIR>          .
+10/21/2017  01:28 PM    <DIR>          ..
+10/21/2017  01:28 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  141,874,089,984 bytes free
